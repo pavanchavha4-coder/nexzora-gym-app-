@@ -9,7 +9,7 @@
     "cap:sync": "cap sync"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
+    "@vitejs/plugin-react": "^4.7.0",
     "firebase": "^12.5.0",
     "lucide-react": "^0.468.0",
     "react": "^19.0.0",
